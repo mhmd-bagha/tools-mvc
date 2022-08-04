@@ -1,5 +1,5 @@
 {
-  "name": "vendor_name/tools-mvc",
+  "name": "tools_mvc/tools-mvc",
   "description": "tools mvc package",
   "minimum-stability": "stable",
   "license": "MIT",
