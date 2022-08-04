@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/tools-mvc",
+  "description": "tools mvc package",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "mhmd-bagha",
+      "email": "mabrahimibagha@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
